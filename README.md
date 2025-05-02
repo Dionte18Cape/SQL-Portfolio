@@ -39,4 +39,4 @@ This portfolio answers that question with proof.
 
 1. Clone the repo:
    ```bash
-   git clone https://github.com/YourUsername/SQL-Portfolio.git
+   git clone https://github.com/Dionte18Cape/SQL-Portfolio.git
